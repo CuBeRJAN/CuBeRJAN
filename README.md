@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Jan 👋
+
+I'm a programmer, Emacs user, Lisper and a free software advocate.
+
+My online nicknames include "CuBeRJAN" and "(lambda () nil)"
 
 <!--
 **CuBeRJAN/CuBeRJAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
