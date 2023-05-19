@@ -1,4 +1,4 @@
-### Hi, I'm Jan 👋
+### Hi 👋
 
 * I'm a programmer, Emacs user, Lisper and a free software advocate.
 * My online nicknames include "CuBeRJAN" and "(lambda () nil)".
