@@ -2,6 +2,7 @@
 
 * I'm a programmer, Emacs user, Lisper and a free software advocate.
 * My online nicknames include "CuBeRJAN" and "(lambda () nil)".
+* Check out [my blog](https://cuberjan.github.io)!
 
 <!--
 **CuBeRJAN/CuBeRJAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
